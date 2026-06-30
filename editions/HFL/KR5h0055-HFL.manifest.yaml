@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5h0055/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5h0055/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 紫微斗數
+  date: '2015-08-29 03:05:37.563503'
+  source:
+    repository: kanripo
+    path: KR5h0055
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5h0055_000-HFL.yaml, hash: 'sha256:481949492c8897acab15f92d133e4355851620102c94a99e691c20b5de97e76c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5h0055_000-HFL.markers.yaml, hash: 'sha256:531abdcd83fd106cbb406310f9110a303455751ca9865e0d2001ce53968e8c8f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5h0055_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 26517
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:f2e9d7f9da9597c5f2f12975dfbdfe7db2399650b63b9ff3805f63df41eb7919
